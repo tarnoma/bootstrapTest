@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+  }
+
+img{
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+}
+
+/* Navigation Bar */
+.navbar {
+    padding: 0 0 2.5rem;
+  }
+   
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: whitesmoke !important;
+  }
+
+  .nav-link:hover{
+      color: blueviolet !important;
+  }
+
+.big-heading {    
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color:whitesmoke;
+  }
+
+  .container-fluid{
+    padding: 7% 15%;
+  }
+
+  .colored-section {
+    background-color: #ff4c68;
+  }
+
+  .social-icon {
+    margin: 20px 10px;
+  }
+
+  .back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
